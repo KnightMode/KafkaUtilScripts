@@ -1,0 +1,19 @@
+{
+    "brokers": [
+        "localhost:9092"
+    ],
+    "details": [
+        {
+            "topic": "topic-new-3",
+            "partition": "2",
+            "replication_factor": "1",
+            "retention_period": "259200000"
+        },
+        {
+            "topic": "topic-8",
+            "partition": "1",
+            "replication_factor": "1",
+            "retention_period": "259200000"
+        }
+    ]
+}

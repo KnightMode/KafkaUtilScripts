@@ -1,0 +1,15 @@
+{
+    "brokers": [
+        "localhost:9092"
+    ],
+    "details": [
+        {
+            "topic": "topic-8",
+            "partition": "20"
+        },
+        {
+            "topic": "topic-new",
+            "partition": "20"
+        }
+    ]
+}
